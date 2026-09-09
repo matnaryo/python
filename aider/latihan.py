@@ -12,3 +12,6 @@ def fibonacci(n):
         fib_sequence.append(next_value)
     
     return fib_sequence
+
+def hitung_keliling_lingkaran(jari_jari):
+    return 2 * 3.14159 * jari_jari
